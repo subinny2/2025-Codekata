@@ -1,6 +1,7 @@
 public class Codekata {
     static class Solution {
         /*
+        * 문자열 섞기
         * 내가 작성한코드
         * */
 //        public String solution(String str1, String str2) {
@@ -14,6 +15,7 @@ public class Codekata {
 
 
         /*
+        * 문자열 섞기
         * 개선된 코드
         * 문제발생 : str1이 str2보다 문자열이 클때 IndexOutOfBoundsException발생
         * */
