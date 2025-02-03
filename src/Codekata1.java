@@ -1,5 +1,5 @@
-public class Codekata {
-    static class Solution {
+public class Codekata1 {
+    static class Solution1 {
         /*
         * 문자열 섞기
         * 내가 작성한코드
@@ -20,7 +20,7 @@ public class Codekata {
         * 문제발생 : str1이 str2보다 문자열이 클때 IndexOutOfBoundsException발생
         * */
 
-        public String solution(String str1, String str2) {
+        public String solution1(String str1, String str2) {
             StringBuilder answer = new StringBuilder(); // 문자열 연결에 효율적인 StringBuilder 사용
             int maxLength = Math.max(str1.length(), str2.length()); // 두 문자열 중 더 긴 길이
 
@@ -37,8 +37,8 @@ public class Codekata {
 
 
         public static void main(String[] args) {
-            Solution sol = new Solution();
-            String result = sol.solution("aaaaaaaaa", "bbbbbbbbbbbbbbb"); // 테스트할 값 입력
+            Solution1 sol1 = new Solution1();
+            String result = sol1.solution1("aaaaaaaaa", "bbbbbbbbbbbbbbb"); // 테스트할 값 입력
             System.out.println(result); // 결과 출력
         }
     }
