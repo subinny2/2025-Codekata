@@ -38,18 +38,6 @@
 
 ---
 
-## 회고 및 배운 점
-- **풀이 전략:**  
-  문제를 단순화하는 것이 중요하다는 걸 깨달았고, 다양한 풀이 방법을 시도하면서 최적화를 배웠습니다.
-
-- **알고리즘 적용:**  
-  처음에는 시간 초과가 났지만, 이진 탐색으로 개선하여 **O(log n)**으로 줄였습니다.
-
-- **협업 & 문서화:**  
-  코드를 잘 설명하고, **클린 코딩**을 지향하는 습관을 들였습니다.
-
----
-
 ## Contact
 - 📧 **Email:** [tnqls787@naver.com](mailto:tnqls787@naver.com)
 - 📝 **블로그:** [https://java-kkwagjaba.tistory.com](https://java-kkwagjaba.tistory.com/
