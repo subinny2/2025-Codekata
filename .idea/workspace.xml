@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd83e59-9404-4bbc-9a92-9a03d504b5ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codekata40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codekata41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codekata42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codekata43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codekata44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="afd83e59-9404-4bbc-9a92-9a03d504b5ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
